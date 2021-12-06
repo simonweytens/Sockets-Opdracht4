@@ -1,0 +1,5 @@
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/build/CMakeFiles/rebuild_cache.dir
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/build/CMakeFiles/edit_cache.dir
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/build/CMakeFiles/Http.dir
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/build/CMakeFiles/Client.dir
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/build/CMakeFiles/Server.dir

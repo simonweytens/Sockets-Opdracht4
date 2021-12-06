@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/Client.c
+sys/un.h
+-
+sys/socket.h
+-
+ctype.h
+-
+tlpi_hdr.h
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/tlpi_hdr.h
+ud_ucase.h
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/ud_ucase.h
+PJ_RPI.h
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/PJ_RPI.h
+stdio.h
+-
+
+/home/pi/C programming/Opdracht4_Sockets/opdracht4_sockets/ud_ucase.h
+

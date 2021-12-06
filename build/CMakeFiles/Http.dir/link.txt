@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Http.dir/http_server.c.o  -o Http  -lPJ_RPI -Wl,-Bstatic -ltlpi -Wl,-Bdynamic 
